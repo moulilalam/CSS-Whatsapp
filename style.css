@@ -266,7 +266,7 @@
 
 }
 .right{
-    margin-left:120px;
+    margin-left:140px;
     background-color: #075E54;
     padding:5px 5px  5px 5px;
     border-radius: 5px;
@@ -274,14 +274,14 @@
     display: inline-block;
     margin-bottom: 10px;
     font-size: 14px;
-    width:180px;
+    width:160px;
    
 }
 .time1{
     color:white;
     display: inline-block;
     font-size: 8px;
-    margin-left:0px;
+    margin-left:15px;
  
 }
 .right1{
@@ -500,6 +500,7 @@
     /* padding:5px; */
     border-radius: 0px 0px 25px 25px;
 }
+
 
 
 

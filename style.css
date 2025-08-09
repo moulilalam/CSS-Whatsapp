@@ -1,5 +1,5 @@
 .container{
-    border:2px solid red;
+/*     border:2px solid red; */
     width:320px;
     height:555px;
     margin-left:580px;
@@ -500,6 +500,7 @@
     /* padding:5px; */
     border-radius: 0px 0px 25px 25px;
 }
+
 
 
 
